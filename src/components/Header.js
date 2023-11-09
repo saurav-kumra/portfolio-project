@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header>
       <img src={avatar} alt="Avatar" className="avatar" />
-      <h1>Karan chauhan</h1>
+      <h1>Saurav kumar</h1>
       
       <p>
         <span className="webDeveloper">Web Developer</span>
